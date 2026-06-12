@@ -40,7 +40,7 @@
 
 ---
 <p align="center">
-  <img src="https://githubusercontent.com/AhmadOmidSaifi/AhmadOmidSaifi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AhmadOmidSaifi/AhmadOmidSaifi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 ### 💬 Fun Fact
 
