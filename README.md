@@ -39,8 +39,9 @@
 </p>
 
 ---
-![Snake animation](https://github.com/AhmadOmidSaifi/AhmadOmidSaifi/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AhmadOmidSaifi/AhmadOmidSaifi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 ### 💬 Fun Fact
 
 > "Learning to code is like learning a superpower – the more you build, the more powerful you become." ⚡
